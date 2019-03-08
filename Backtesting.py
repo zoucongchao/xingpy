@@ -1,7 +1,7 @@
 # encoding: UTF-8
 
 """
-ahourth:zou
+
 展示如何执行策略回测。
 """
 
